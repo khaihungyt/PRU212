@@ -1,0 +1,63 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta files
+/[Aa]ssets/**/*.meta
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+*.sln
+*.csproj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+/Packages/
+/UserSettings/
+*.userprefs
+
+# Crash and Debug files
+*.pidb
+*.booproj
+*.svd
+
+# Unity Cache files
+/Cache/
+
+# Unity Asset Store files
+/[Aa]ssets/[Aa]sset[Ss]tore/
+
+# Auto-generated files by Unity
+*.unitypackage
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Exclude build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.dll
+*.pdb
+*.mdb
+
+# TextMeshPro generated files
+/Assets/TextMesh Pro/
+
+# Collaborate
+/[Aa]ssets/Collab/
